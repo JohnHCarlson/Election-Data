@@ -2,7 +2,7 @@
 
 ## Organization
 
-- Maps are organized in the following structure: `[OFFICE]\_[DISTRICT / LOCATION]\_[YEAR]`.
+- Maps are organized in the following structure: `[OFFICE]_[DISTRICT / LOCATION]_[YEAR]`.
 - Each map folder will contain a .GEOJSON file.
 
 ## Current List of Maps
