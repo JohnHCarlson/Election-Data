@@ -7,6 +7,11 @@
 
 ## Current List of Maps
 
-### U.S. House Results
+### U.S. House Maps
 
+- CT-04 (2000)
+- CT-05 (2000)
 - CT-06 (1990)
+
+### Statewide Maps
+- CT (towns)
