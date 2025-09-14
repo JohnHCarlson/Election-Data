@@ -2,7 +2,7 @@
 
 ## Organization
 
-- Results are organized in the following structure: `[OFFICE]\_[ELECTION TYPE]\_[DISTRICT *(if applicable)*]\_[YEAR]`. 
+- Results are organized in the following structure: `[OFFICE]_[ELECTION TYPE]_[DISTRICT *(if applicable)*]_[YEAR]`. 
 - Each result folder will have at least one results .CSV file inside, representing one result format each (precinct, town, county) each.
 - Each result file will contain the rows: format name, candidate(s), vote total.
 
